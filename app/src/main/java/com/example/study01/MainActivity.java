@@ -11,6 +11,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    //test
     ImageView iv_test;
     EditText et_text;
     Button btn_test;
